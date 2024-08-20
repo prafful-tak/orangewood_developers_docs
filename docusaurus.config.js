@@ -21,7 +21,7 @@ const config = {
   // GitHub pages deployment config.
   // If you aren't using GitHub pages, you don't need these.
 
-  organizationName: 'prafful-tak', // Usually your GitHub org/user name.
+  organizationName: 'orangewood-co', // Usually your GitHub org/user name.
   projectName: 'orangewood_developers_docs', // Usually your repo name.
   deploymentBranch: 'gh-pages',  // Ensure this matches the branch name you created
 
