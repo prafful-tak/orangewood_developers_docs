@@ -27,7 +27,7 @@ const sidebars = {
     {
       type: 'category',
       label: 'docs_2',
-      items: ['doc_2/doc2_dummy1', 'doc_2/doc2_dummy2'],
+      items: ['doc_2/doc2_dummy1', 'doc_2/doc2_dummy2', 'doc_2/doc2_dummy3'],
     },
   ],
 
